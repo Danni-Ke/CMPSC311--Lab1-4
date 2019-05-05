@@ -1,0 +1,5 @@
+Use this command in shlab-handout folder to find out what your correctness
+automatically graded grade will be for the shlab. 3 points for each trace file
+for a total of 48 points for all 16 trace files.
+
+./grade-shlab.pl -f tsh.c -s .
